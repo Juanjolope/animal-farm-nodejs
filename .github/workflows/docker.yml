@@ -26,4 +26,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            Juanjolope/animal-farm-nodejs:latest
+            juanjolope/animal-farm-nodejs:latest
